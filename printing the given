@@ -1,0 +1,42 @@
+Write a Java program to print 'Hello' on screen and your name on a separate line.
+
+Input Format
+
+Input Consists of one String
+
+Constraints
+
+No Constraints
+
+Output Format
+
+Execute the given statement and input.
+
+Sample Input 0
+
+Vinothini
+Sample Output 0
+
+Hello
+Vinothini
+Sample Input 1
+
+Venkat
+Sample Output 1
+
+Hello
+Venkat
+Submissions: 191
+Max Score: 10
+Difficulty: Medium
+Rate This Challenge:
+
+    
+More
+ 
+1
+print("Hello")
+2
+a=input()
+3
+print(a)
